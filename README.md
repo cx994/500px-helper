@@ -23,7 +23,7 @@
   1. 点击浏览器工具栏中的 Tampermonkey 图标
   2. 选择 **"添加新脚本"**
   3. 删除默认模板内容
-  4. 复制 [500px-select-all-tribes.user.js](./500px-select-all-tribes.user.js) 中的全部代码并粘贴
+  4. 复制 [500px-helper.js](./500px-helper.js) 中的全部代码并粘贴
   5. 按 **Ctrl+S**（Mac 用户按 **Cmd+S**）保存
 
 - 第三步：开始使用
